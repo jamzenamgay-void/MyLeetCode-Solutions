@@ -10,6 +10,7 @@ Each folder is named after the problem number and title, containing:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +40,7 @@ Each folder is named after the problem number and title, containing:
 | [0006-zigzag-conversion](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,4 +57,8 @@ Each folder is named after the problem number and title, containing:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
