@@ -14,6 +14,7 @@ Each folder is named after the problem number and title, containing:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1470-shuffle-the-array](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -108,6 +109,7 @@ Each folder is named after the problem number and title, containing:
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -116,6 +118,7 @@ Each folder is named after the problem number and title, containing:
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0707-design-linked-list](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0707-design-linked-list/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1603-design-parking-system](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/1603-design-parking-system/) | Easy |
