@@ -14,6 +14,7 @@ Each folder is named after the problem number and title, containing:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [1470-shuffle-the-array](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Hash Table
