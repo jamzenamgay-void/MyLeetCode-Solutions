@@ -14,6 +14,7 @@ Each folder is named after the problem number and title, containing:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0217-contains-duplicate](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [1470-shuffle-the-array](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
@@ -25,6 +26,7 @@ Each folder is named after the problem number and title, containing:
 | [0001-two-sum](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0217-contains-duplicate](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,4 +149,8 @@ Each folder is named after the problem number and title, containing:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
