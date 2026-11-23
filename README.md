@@ -15,6 +15,7 @@ Each folder is named after the problem number and title, containing:
 | [0027-remove-element](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0334-increasing-triplet-subsequence](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [1470-shuffle-the-array](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -138,4 +139,12 @@ Each folder is named after the problem number and title, containing:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0933-number-of-recent-calls/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 <!---LeetCode Topics End-->
