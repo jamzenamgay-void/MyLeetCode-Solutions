@@ -14,6 +14,7 @@ Each folder is named after the problem number and title, containing:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,4 +101,8 @@ Each folder is named after the problem number and title, containing:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
