@@ -110,4 +110,16 @@ Each folder is named after the problem number and title, containing:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/1603-design-parking-system/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/1603-design-parking-system/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/1603-design-parking-system/) | Easy |
 <!---LeetCode Topics End-->
