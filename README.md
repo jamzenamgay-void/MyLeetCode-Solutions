@@ -53,6 +53,7 @@ Each folder is named after the problem number and title, containing:
 | [0020-valid-parentheses](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
+| [0709-to-lower-case](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0709-to-lower-case/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
