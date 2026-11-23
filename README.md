@@ -85,6 +85,7 @@ Each folder is named after the problem number and title, containing:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +122,7 @@ Each folder is named after the problem number and title, containing:
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0707-design-linked-list](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0707-design-linked-list/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0933-number-of-recent-calls/) | Easy |
