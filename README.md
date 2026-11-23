@@ -11,6 +11,7 @@ Each folder is named after the problem number and title, containing:
 | ------- | ------- |
 | [0001-two-sum](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@ Each folder is named after the problem number and title, containing:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/jamzenamgay-void/MyLeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
